@@ -11,9 +11,9 @@ function toggleSecretState() {
 
 function updateSecretButton() {
     if (showSecret) {
-        secretButton.textContent = 'Hide the Secret';
+        secretButton.textContent = 'Tekan dengan Jari Kelingking';
     } else {
-        secretButton.textContent = 'Show the Secret';
+        secretButton.textContent = 'Tekan dengan Jari Kelingking';
     }
 }
 
